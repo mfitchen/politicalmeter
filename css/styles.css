@@ -1,0 +1,11 @@
+body {
+  background-color: green;
+}
+
+img {
+  width: 300px;
+}
+
+#leonardo, #donatello, #raphael, #michelangelo {
+  display: none;
+}
